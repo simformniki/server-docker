@@ -1,0 +1,2 @@
+# server-docker
+npm start
